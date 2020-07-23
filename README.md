@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="https://media.giphy.com/media/YMecnb3DRb8P4tKCJS/giphy.gif" height="300" alt="gif">
+<img  src="https://media.giphy.com/media/YMecnb3DRb8P4tKCJS/giphy.gif" height="250" alt="gif">
 </p>
 <br/>
 
@@ -7,6 +7,7 @@
 
 * Escreva seu ano de nascimento :hourglass_flowing_sand:
 * Selecione o gênero
+* Clique no botão 
 
 ## Technologies :octocat:
 * JavaScript :sparkles:
