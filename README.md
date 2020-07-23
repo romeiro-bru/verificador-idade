@@ -6,8 +6,8 @@
 ## Features :mag:
 
 * Escreva seu ano de nascimento :hourglass_flowing_sand:
-* Selecione o gênero
-* Clique no botão 
+* Selecione o gênero :heavy_check_mark:
+* Clique no botão :point_up_2:
 
 ## Technologies :octocat:
 * JavaScript :sparkles:
